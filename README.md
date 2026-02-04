@@ -3,7 +3,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-orange) ![Simulink](https://img.shields.io/badge/Simulink-Control-blue) ![Topic](https://img.shields.io/badge/Topic-Pole%20Placement-green) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📖 Project Overview
-This repository contains the control system design and simulation for a **Furuta Pendulum** (Rotary Inverted Pendulum). Developed as part of the **MCT411: Hybrid Control** course at **Ain Shams University**, the project aims to stabilize the underactuated pendulum in the upright position ($\theta_1 = 0$) using state-space control techniques.
+The control system design and simulation for a **Furuta Pendulum** (Rotary Inverted Pendulum). Developed as part of the **MCT411: Hybrid Control** course at **Ain Shams University**, the project aims to stabilize the underactuated pendulum in the upright position ($\theta_1 = 0$) using state-space control techniques.
 
 The system consists of a driven arm (actuated by a DC motor) rotating in the horizontal plane and a pendulum rod (unactuated) attached to the arm, free to rotate in the vertical plane.
 
